@@ -1,0 +1,17 @@
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\TravelCalculator.exe
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\TravelCalculator.deps.json
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\TravelCalculator.runtimeconfig.json
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\TravelCalculator.dll
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\TravelCalculator.pdb
+C:\msys64\home\Practice _do\TravelCalculator\bin\Debug\net9.0\SplashKitSDK.dll
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.csproj.AssemblyReference.cache
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.AssemblyInfoInputs.cache
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.AssemblyInfo.cs
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.csproj.CoreCompileInputs.cache
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCa.6C011402.Up2Date
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.dll
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\refint\TravelCalculator.dll
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.pdb
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\TravelCalculator.genruntimeconfig.cache
+C:\msys64\home\Practice _do\TravelCalculator\obj\Debug\net9.0\ref\TravelCalculator.dll

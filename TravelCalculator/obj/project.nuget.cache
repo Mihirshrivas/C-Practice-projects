@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9uJKIGWLGw=",
+  "success": true,
+  "projectFilePath": "C:\\msys64\\home\\Practice _do\\TravelCalculator\\TravelCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihir\\.nuget\\packages\\splashkit\\1.3.0\\splashkit.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "SplashKit/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/SplashKitSDK.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/SplashKitSDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplashKit/1.3.0": {
+      "sha512": "AgcNLd1RSHXRwWcuuYwTbRy8LuQVRx2CbhFoVVbFBX5nuM2+4MLwAP1LR94SnfjNifqNeTlvNOb9T89e2Zrz7A==",
+      "type": "package",
+      "path": "splashkit/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net6.0/SplashKitSDK.dll",
+        "lib/net7.0/SplashKitSDK.dll",
+        "lib/net8.0/SplashKitSDK.dll",
+        "lib/net9.0/SplashKitSDK.dll",
+        "readme.md",
+        "splashkit.1.3.0.nupkg.sha512",
+        "splashkit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "splashkit >= 1.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mihir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\msys64\\home\\Practice _do\\TravelCalculator\\TravelCalculator.csproj",
+      "projectName": "TravelCalculator",
+      "projectPath": "C:\\msys64\\home\\Practice _do\\TravelCalculator\\TravelCalculator.csproj",
+      "packagesPath": "C:\\Users\\mihir\\.nuget\\packages\\",
+      "outputPath": "C:\\msys64\\home\\Practice _do\\TravelCalculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mihir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "splashkit": {
+            "target": "Package",
+            "version": "[1.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
