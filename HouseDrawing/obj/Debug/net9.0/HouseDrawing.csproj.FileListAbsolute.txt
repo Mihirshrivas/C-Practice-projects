@@ -1,0 +1,17 @@
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\HouseDrawing.exe
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\HouseDrawing.deps.json
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\HouseDrawing.runtimeconfig.json
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\HouseDrawing.dll
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\HouseDrawing.pdb
+C:\msys64\home\Practice _do\HouseDrawing\bin\Debug\net9.0\SplashKitSDK.dll
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.csproj.AssemblyReference.cache
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.AssemblyInfoInputs.cache
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.AssemblyInfo.cs
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.csproj.CoreCompileInputs.cache
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDra.89B15D7F.Up2Date
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.dll
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\refint\HouseDrawing.dll
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.pdb
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\HouseDrawing.genruntimeconfig.cache
+C:\msys64\home\Practice _do\HouseDrawing\obj\Debug\net9.0\ref\HouseDrawing.dll
