@@ -1,0 +1,14 @@
+C:\Users\mihir\Documents\Code\4.1Transactions\bin\Debug\net9.0\_4_1Transactions.exe
+C:\Users\mihir\Documents\Code\4.1Transactions\bin\Debug\net9.0\_4_1Transactions.deps.json
+C:\Users\mihir\Documents\Code\4.1Transactions\bin\Debug\net9.0\_4_1Transactions.runtimeconfig.json
+C:\Users\mihir\Documents\Code\4.1Transactions\bin\Debug\net9.0\_4_1Transactions.dll
+C:\Users\mihir\Documents\Code\4.1Transactions\bin\Debug\net9.0\_4_1Transactions.pdb
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.AssemblyInfoInputs.cache
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.AssemblyInfo.cs
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.csproj.CoreCompileInputs.cache
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.dll
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\refint\_4_1Transactions.dll
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.pdb
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\_4_1Transactions.genruntimeconfig.cache
+C:\Users\mihir\Documents\Code\4.1Transactions\obj\Debug\net9.0\ref\_4_1Transactions.dll
