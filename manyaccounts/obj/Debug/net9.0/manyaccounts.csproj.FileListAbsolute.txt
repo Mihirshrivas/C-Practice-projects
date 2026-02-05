@@ -1,0 +1,14 @@
+C:\Users\mihir\Documents\Code\manyaccounts\bin\Debug\net9.0\manyaccounts.exe
+C:\Users\mihir\Documents\Code\manyaccounts\bin\Debug\net9.0\manyaccounts.deps.json
+C:\Users\mihir\Documents\Code\manyaccounts\bin\Debug\net9.0\manyaccounts.runtimeconfig.json
+C:\Users\mihir\Documents\Code\manyaccounts\bin\Debug\net9.0\manyaccounts.dll
+C:\Users\mihir\Documents\Code\manyaccounts\bin\Debug\net9.0\manyaccounts.pdb
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.AssemblyInfoInputs.cache
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.AssemblyInfo.cs
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.csproj.CoreCompileInputs.cache
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.dll
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\refint\manyaccounts.dll
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.pdb
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\manyaccounts.genruntimeconfig.cache
+C:\Users\mihir\Documents\Code\manyaccounts\obj\Debug\net9.0\ref\manyaccounts.dll
