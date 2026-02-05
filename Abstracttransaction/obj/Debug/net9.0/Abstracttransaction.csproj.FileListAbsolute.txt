@@ -1,0 +1,14 @@
+C:\Users\mihir\Documents\Code\Abstracttransaction\bin\Debug\net9.0\Abstracttransaction.exe
+C:\Users\mihir\Documents\Code\Abstracttransaction\bin\Debug\net9.0\Abstracttransaction.deps.json
+C:\Users\mihir\Documents\Code\Abstracttransaction\bin\Debug\net9.0\Abstracttransaction.runtimeconfig.json
+C:\Users\mihir\Documents\Code\Abstracttransaction\bin\Debug\net9.0\Abstracttransaction.dll
+C:\Users\mihir\Documents\Code\Abstracttransaction\bin\Debug\net9.0\Abstracttransaction.pdb
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.AssemblyInfoInputs.cache
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.AssemblyInfo.cs
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.csproj.CoreCompileInputs.cache
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.dll
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\refint\Abstracttransaction.dll
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.pdb
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\Abstracttransaction.genruntimeconfig.cache
+C:\Users\mihir\Documents\Code\Abstracttransaction\obj\Debug\net9.0\ref\Abstracttransaction.dll
